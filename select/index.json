@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "インターネットを憎まないで",
+  "base_artist": "171",
+  "createdAt": "2026-03-15T20:11:44.352688Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インターネットを憎まないで",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/pl_01_インターネットを憎まないで_171.txt"
+    }
+  ]
+}
